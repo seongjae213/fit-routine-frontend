@@ -1,0 +1,55 @@
+
+.container {
+    border: 3px solid #334EAC;
+    width: 20rem;
+    height: 19.3rem;
+    border-radius: 10px;
+    overflow: hidden;
+    text-align: center;
+}
+
+.imgContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.previewImg {
+    width:12rem; 
+    height:12rem;
+    margin-top:0.5rem;
+}
+
+.horizon {
+    border:1px solid #334EAC;
+}
+
+.nameText {
+    font-size: 0.7rem;
+    font-weight: 700;
+    text-align: right;
+    margin-right: 0.7rem;
+}
+
+.titleText {
+    font-weight: 700;
+    margin-top: 0.5rem;
+    font-size: 1.1rem;
+}
+
+.heartComponent {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 0.5rem;
+    margin-right: 0.7rem;
+}
+
+
+
+
+
+
+
+
+
+

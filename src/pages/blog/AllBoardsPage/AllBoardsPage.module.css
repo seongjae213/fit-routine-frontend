@@ -1,0 +1,19 @@
+.mainContainer {
+    height: 55rem;
+}
+
+.buttonContainer {
+    display: flex;
+    margin-top: 5rem;
+}
+
+.likeBtn {
+    margin-left: 10rem;
+}
+
+.latestBtn {
+    margin-left: 1rem;
+}
+
+
+
